@@ -19,7 +19,7 @@ menu = """
 => """
 
 balance = 0
-limit = 500000
+limit = 500
 extract = ""
 number_of_withdrawals = 0
 WITHDRAWAL_LIMIT = 3
