@@ -18,7 +18,7 @@ O sistema oferece um menu interativo com as seguintes opções:
 * Permite ao usuário retirar um valor da conta.
 * A operação de saque está sujeita a três regras de negócio:
     1.  **Saldo Suficiente:** O valor do saque não pode ser maior que o saldo atual da conta.
-    2.  **Limite por Saque:** O valor de cada saque não pode exceder um limite predefinido (atualmente R$ 500.000,00 no código).
+    2.  **Limite por Saque:** O valor de cada saque não pode exceder um limite predefinido (atualmente R$ 500,00 no código).
     3.  **Limite de Operações:** O usuário pode realizar um máximo de 3 saques.
 
 ### 3. Extrato
