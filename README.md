@@ -46,10 +46,11 @@ O sistema foi refatorado e agora conta com um menu interativo com as seguintes o
   * Estruturas de controle (while, if/elif/else).  
   * Lógica de programação para validação de regras de negócio e entradas do usuário.
 
-## **Como Executar**
+## Como Executar
 
-1. Certifique-se de ter o Python 3 instalado em sua máquina.  
-2. Clone este repositório ou baixe o arquivo challenge\_3.1.py.  
-3. Abra um terminal na pasta onde o arquivo está localizado.  
-4. Execute o seguinte comando:  
-   python challenge\_3.1.py  
+1.  Certifique-se de ter o Python 3 instalado em sua máquina.
+2.  Clone este repositório ou baixe o arquivo `.py`.
+3.  Abra um terminal na pasta onde o arquivo está localizado.
+4.  Execute o seguinte comando:
+    ```bash
+    python challenge_3.py
